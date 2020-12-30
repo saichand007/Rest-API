@@ -1,0 +1,5 @@
+2020-12-27 19:10:38,852 INFO c.r.d.i.EmployeeDAOImpl [http-nio-8080-exec-3] size of the Employee-list is=
+2020-12-27 19:11:13,007 INFO c.r.d.i.DepartmentDAOImpl [http-nio-8080-exec-7] size of the Departments-list is=27
+2020-12-27 19:11:13,008 DEBUG c.r.d.i.DepartmentDAOImpl [http-nio-8080-exec-7] debug msg
+2020-12-27 19:12:29,570 INFO c.r.d.i.EmployeeDAOImpl [http-nio-8080-exec-9] size of the Employee-list is=
+2020-12-27 19:15:03,738 INFO c.r.d.i.EmployeeDAOImpl [http-nio-8080-exec-3] size of the Employee-list is=107

@@ -1,0 +1,57 @@
+[DEBUG] 2020-12-29 00:15:56.618 [http-nio-8080-exec-3] DepartmentDAOImpl - id =nullnull
+[DEBUG] 2020-12-29 00:23:13.497 [http-nio-8080-exec-3] DepartmentDAOImpl - id =nullnull
+[INFO ] 2020-12-29 00:23:14.179 [http-nio-8080-exec-3] DepartmentDAOImpl - size of the Departments-list is=27
+[DEBUG] 2020-12-29 00:23:14.179 [http-nio-8080-exec-3] DepartmentDAOImpl - debug msg
+[INFO ] 2020-12-29 00:23:43.182 [http-nio-8080-exec-10] DepartmentResource - test id =false
+[DEBUG] 2020-12-29 00:23:43.183 [http-nio-8080-exec-10] DepartmentDAOImpl - id =nullnull
+[INFO ] 2020-12-29 00:23:43.231 [http-nio-8080-exec-10] DepartmentDAOImpl - size of the Departments-list is=27
+[DEBUG] 2020-12-29 00:23:43.231 [http-nio-8080-exec-10] DepartmentDAOImpl - debug msg
+[DEBUG] 2020-12-29 00:25:17.253 [http-nio-8080-exec-3] DepartmentDAOImpl - id =3030
+[INFO ] 2020-12-29 00:25:18.052 [http-nio-8080-exec-3] DepartmentDAOImpl - size of the Departments-list is=1
+[DEBUG] 2020-12-29 00:25:18.052 [http-nio-8080-exec-3] DepartmentDAOImpl - debug msg
+[DEBUG] 2020-12-29 00:25:26.692 [http-nio-8080-exec-4] DepartmentDAOImpl - id =nullnull
+[INFO ] 2020-12-29 00:25:26.900 [http-nio-8080-exec-4] DepartmentDAOImpl - size of the Departments-list is=27
+[DEBUG] 2020-12-29 00:25:26.900 [http-nio-8080-exec-4] DepartmentDAOImpl - debug msg
+[DEBUG] 2020-12-29 00:25:31.667 [http-nio-8080-exec-7] DepartmentDAOImpl - id =1010
+[INFO ] 2020-12-29 00:25:31.718 [http-nio-8080-exec-7] DepartmentDAOImpl - size of the Departments-list is=1
+[DEBUG] 2020-12-29 00:25:31.718 [http-nio-8080-exec-7] DepartmentDAOImpl - debug msg
+[DEBUG] 2020-12-29 00:25:36.855 [http-nio-8080-exec-9] DepartmentDAOImpl - id =100100
+[INFO ] 2020-12-29 00:25:36.911 [http-nio-8080-exec-9] DepartmentDAOImpl - size of the Departments-list is=1
+[DEBUG] 2020-12-29 00:25:36.912 [http-nio-8080-exec-9] DepartmentDAOImpl - debug msg
+[DEBUG] 2020-12-29 00:25:41.098 [http-nio-8080-exec-10] DepartmentDAOImpl - id =10001000
+[INFO ] 2020-12-29 00:25:41.143 [http-nio-8080-exec-10] DepartmentDAOImpl - size of the Departments-list is=0
+[DEBUG] 2020-12-29 00:25:41.143 [http-nio-8080-exec-10] DepartmentDAOImpl - debug msg
+[ERROR] 2020-12-29 01:31:39.762 [http-nio-8080-exec-3] DepartmentDAOImpl - ERROR Occured in adding the Department
+[ERROR] 2020-12-29 01:36:06.621 [http-nio-8080-exec-3] DepartmentDAOImpl - ERROR Occured in adding the Department
+[DEBUG] 2020-12-29 01:49:49.375 [http-nio-8080-exec-6] DepartmentDAOImpl - Insertion SUCCESS
+[DEBUG] 2020-12-29 01:52:23.306 [http-nio-8080-exec-8] DepartmentDAOImpl - Insertion Failed
+[DEBUG] 2020-12-29 01:56:50.278 [http-nio-8080-exec-6] DepartmentDAOImpl - Insertion SUCCESS
+[DEBUG] 2020-12-29 01:57:12.367 [http-nio-8080-exec-8] DepartmentDAOImpl - Insertion Failed
+[ERROR] 2020-12-29 13:33:13.378 [http-nio-8080-exec-5] DepartmentDAOImpl - ERROR Occured in Deleting the Departments
+[INFO ] 2020-12-29 13:36:25.885 [http-nio-8080-exec-3] DepartmentDAOImpl - Deletion Successfull
+[INFO ] 2020-12-29 13:37:31.323 [http-nio-8080-exec-10] DepartmentDAOImpl - Deletion Successfull
+[INFO ] 2020-12-29 14:04:39.351 [http-nio-8080-exec-6] DepartmentResource - Deletion ---99999
+[INFO ] 2020-12-29 14:04:40.346 [http-nio-8080-exec-6] DepartmentDAOImpl - Deletion Failed
+[INFO ] 2020-12-29 14:05:01.374 [http-nio-8080-exec-8] DepartmentResource - Deletion ---991
+[INFO ] 2020-12-29 14:05:01.450 [http-nio-8080-exec-8] DepartmentDAOImpl - Deletion Successfull
+[INFO ] 2020-12-29 14:05:46.582 [http-nio-8080-exec-10] DepartmentResource - Deletion ---991
+[INFO ] 2020-12-29 14:05:46.656 [http-nio-8080-exec-10] DepartmentDAOImpl - Deletion Failed
+[INFO ] 2020-12-29 14:10:59.032 [http-nio-8080-exec-3] DepartmentResource - Deletion ---991
+[INFO ] 2020-12-29 14:10:59.978 [http-nio-8080-exec-3] DepartmentDAOImpl - Deletion Failed
+[INFO ] 2020-12-29 14:12:55.445 [http-nio-8080-exec-3] DepartmentResource - Deletion ---991
+[INFO ] 2020-12-29 14:12:56.449 [http-nio-8080-exec-3] DepartmentDAOImpl - Deletion Failed
+[INFO ] 2020-12-29 16:25:39.598 [http-nio-8080-exec-3] DepartmentDAOImpl - size of the Departments-list is=1
+[DEBUG] 2020-12-29 16:25:39.610 [http-nio-8080-exec-3] DepartmentDAOImpl - debug msg
+[INFO ] 2020-12-29 16:31:12.540 [http-nio-8080-exec-8] DepartmentDAOImpl - size of the Departments-list is=1
+[DEBUG] 2020-12-29 16:31:12.550 [http-nio-8080-exec-8] DepartmentDAOImpl - debug msg
+[INFO ] 2020-12-29 16:33:36.627 [http-nio-8080-exec-3] DepartmentResource - fetch-1 ---277
+[INFO ] 2020-12-29 16:33:37.329 [http-nio-8080-exec-3] DepartmentDAOImpl - size of the Departments-list is=1
+[DEBUG] 2020-12-29 16:33:37.329 [http-nio-8080-exec-3] DepartmentDAOImpl - debug msg
+[INFO ] 2020-12-29 16:38:19.737 [http-nio-8080-exec-6] DepartmentResource - updation ---277
+[ERROR] 2020-12-29 16:38:20.528 [http-nio-8080-exec-6] DepartmentDAOImpl - ERROR Occured in updating the Department
+[INFO ] 2020-12-29 16:44:10.531 [http-nio-8080-exec-3] DepartmentResource - updation ---277
+[ERROR] 2020-12-29 16:44:11.488 [http-nio-8080-exec-3] DepartmentDAOImpl - ERROR Occured in updating the Department
+[INFO ] 2020-12-29 16:50:37.859 [http-nio-8080-exec-3] DepartmentResource - updation ---277
+[DEBUG] 2020-12-29 16:50:38.690 [http-nio-8080-exec-3] DepartmentDAOImpl - updation SUCCESS
+[INFO ] 2020-12-29 16:52:17.568 [http-nio-8080-exec-6] DepartmentResource - updation ---277
+[DEBUG] 2020-12-29 16:52:18.308 [http-nio-8080-exec-6] DepartmentDAOImpl - updation SUCCESS
